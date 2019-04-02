@@ -13,6 +13,7 @@ Ukoliko je zahtjev korisnika vezan za servisiranje računara prodavač prilikom 
 
 
 - Akteri : 
+
 Direktor: Odgovoran za poslovanje i koordinaciju čitavog Mob-Shopa.
 Supervizor: Predstavlja vezu između prodavača i servisa. Zadužen za nabavku i izvještaj direktoru.
 Servis: Zadužen za servisiranje proizvoda i komunikaciju sa supervizorom.
@@ -21,23 +22,28 @@ Monter: Osoba/e zadužena/e za dostavu i montiranje kupljenog proizvoda.
 Korisnik: Osobe koje su upotrebljavaju usluge Mob-Shopa.
 
 - Funkcionalni zahtjevi :
+
 Korisnik:
 ⦁	Pregled ponude
 ⦁	Mogućnost narudžbe nedostupnog proizvoda
 ⦁	Zahtjev za palaćanje na rate
 ⦁	Servisiranje proizvoda
+
 Prodavač:
 ⦁	Pregled dostupnih proizvoda 
 ⦁	Pristup bazi podataka proizvoda
 ⦁	Ažuriranje baze podataka proizvoda
+
 Supervizor:
 ⦁	Pristup bazi podataka proizvoda
 ⦁	Pristup servisu
 ⦁	Pristup sistemu za narudžbe
 ⦁	Pregled dokumentacije podnesene od strane korisnika
-Servis:
+
+Serviser:
 ⦁	Pristup bazi podataka proizvoda
 ⦁	Pristup bazi podataka kvarova
+
 Direktor:
 ⦁	Pristup svih dijelovima sistema
 ⦁	Pregled statistike vezane za prodaju/narudžbu
