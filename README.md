@@ -13,7 +13,6 @@ Ukoliko je zahtjev korisnika vezan za servisiranje računara prodavač prilikom 
 
 
 - Akteri : 
-
 Direktor: Odgovoran za poslovanje i koordinaciju čitavog Mob-Shopa.
 Supervizor: Predstavlja vezu između prodavača i servisa. Zadužen za nabavku i izvještaj direktoru.
 Servis: Zadužen za servisiranje proizvoda i komunikaciju sa supervizorom.
@@ -24,10 +23,10 @@ Korisnik: Osobe koje su upotrebljavaju usluge Mob-Shopa.
 - Funkcionalni zahtjevi :
 
 Korisnik:
-⦁	Pregled ponude
-⦁	Mogućnost narudžbe nedostupnog proizvoda
-⦁	Zahtjev za palaćanje na rate
-⦁	Servisiranje proizvoda
+⦁	Pregled ponude 
+⦁	Mogućnost narudžbe nedostupnog proizvoda 
+⦁	Zahtjev za palaćanje na rate 
+⦁	Servisiranje proizvoda 
 
 Prodavač:
 ⦁	Pregled dostupnih proizvoda 
